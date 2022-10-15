@@ -1,8 +1,5 @@
 # Firstrepo
 
-gh
-=======
-
 jkii
 =======
 
@@ -10,5 +7,4 @@ hello
 =======
 lopikjo
 
-
-
+hjui
